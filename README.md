@@ -1,6 +1,6 @@
 # Каталог скриптов из Telegram-канала @desertop
 
-Страница каталога: https://adobeindesignscripts.github.io/directory/desertop/
+Страница каталога: https://deser7gmail.github.io/desertop-09-2026/
 
 Здесь 151 скрипт из 70 постов канала [@desertop](https://t.me/desertop): имя, размер, где именно лежит файл
 (в посте, внутри архива или только упомянут в тексте), краткое описание и ссылка на пост.
